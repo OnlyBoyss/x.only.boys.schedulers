@@ -2,7 +2,7 @@ name: COUNTER UPDATE SCHEDULER
 
 on:
   workflow_dispatch:
-  schedule:
+  # schedule:
     # - cron: '30 6 * * *'   # Runs at 12:00 PM IST
     # - cron: '0 12 * * *'   # Runs at 5:30 PM IST
 
